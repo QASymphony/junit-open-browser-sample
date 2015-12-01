@@ -9,6 +9,9 @@ import sample.*;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
+      CalculatorTestSuccessful.class,
+      OpenBrowserTest.class,
+      WelcomeMessageTest.class
 })
 public class SuiteTest {
 }
